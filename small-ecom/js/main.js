@@ -14,6 +14,7 @@ var app = new Vue({
                 return "Sorry, this is item is out of stock."
             }
         },
-        onSale : true
+        onSale : true,
+        discount : true
     }
 })
